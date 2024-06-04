@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicTacToe", "BlazorTicTacToe\BlazorTicTacToe\BlazorTicTacToe.csproj", "{AE6F542A-8727-4874-8370-A015A3CDDE81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicTacToe.Client", "BlazorTicTacToe\BlazorTicTacToe.Client\BlazorTicTacToe.Client.csproj", "{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6F542A-8727-4874-8370-A015A3CDDE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6F542A-8727-4874-8370-A015A3CDDE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6F542A-8727-4874-8370-A015A3CDDE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6F542A-8727-4874-8370-A015A3CDDE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B14F4E0-C5FC-4092-8DE1-33DBDC7F0C74}
+	EndGlobalSection
+EndGlobal

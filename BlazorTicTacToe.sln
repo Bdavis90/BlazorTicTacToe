@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicTacToe", "BlazorTi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicTacToe.Client", "BlazorTicTacToe\BlazorTicTacToe.Client\BlazorTicTacToe.Client.csproj", "{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTicTacToeShared", "BlazorTicTacToeShared\BlazorTicTacToeShared.csproj", "{CBE0129A-EA94-4C6E-8113-11F59306C565}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8E6B1AC-D6AE-4F20-8F87-1ECF256AF7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE0129A-EA94-4C6E-8113-11F59306C565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE0129A-EA94-4C6E-8113-11F59306C565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE0129A-EA94-4C6E-8113-11F59306C565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE0129A-EA94-4C6E-8113-11F59306C565}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
